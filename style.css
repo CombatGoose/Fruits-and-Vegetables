@@ -60,3 +60,64 @@ header {
     position: absolute;
     margin-left: 77.6%;
 }
+.main {
+    margin: 0 150px;
+}
+.upperMain {
+    margin-top: 21px;
+    display: flex;
+}
+.n {
+    margin-left: 111px;
+    margin-top: 14.5px;
+}
+.mainNav {
+    color: #7FAD39;
+    text-decoration: none;
+}
+.nav {
+    color: black;
+    text-decoration: none;
+    margin-left: 35px;
+}
+.h {
+    width: 20px;
+    height: 18px;
+}
+.heart {
+    margin-top: 14.5px;
+    margin-left: 238px;
+}
+.ball {
+    width: 14px;
+    height: 14px;
+    margin-top: -27px;
+    margin-left: 13.5px;
+    color: white;
+    background-color: #7FAD39;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid white 2px;
+}
+.p {
+    width: 18px;
+    height: 21px;
+    margin-top: 10px;
+    margin-left: 21px;
+}
+.b {
+    margin-left: 33.5px;
+}
+.i {
+    margin-top: 10px;
+    margin-left: 27px;
+    color: #999999;
+}
+.sums {
+    display: flex;
+}
+.i1 {
+    margin-top: 10px;
+}
