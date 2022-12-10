@@ -1,0 +1,62 @@
+header {
+    color: white;
+    background-color: #2A2A2A;
+    width: 100%;
+    margin: 0 150px;
+    display: flex;
+}
+.header {
+    margin: 0 150px;
+    display: flex;
+    align-items: center;
+    height: 47px;
+}
+.mail {
+    width: 20px;
+    height: 16px;
+}
+ .maiL{
+    margin-left: 8px;
+    color: white;
+}
+.hr1 {
+    height: 14px;
+    margin-right: 80%;
+    margin-left: 20px;
+}
+.sum {
+   margin-left: -77.5%;
+}
+.social {
+    margin-left: 280px;
+    display: flex;
+}
+.s {
+ width: 18px;
+ height: 18px;
+ margin-left: 20px;
+}
+.country {
+    margin-left: 70px;
+}
+.en {
+    margin-left: 9px;
+}
+.symbol {
+    margin-left: 10.5px;
+    width: 9px;
+    height: 5.5px;
+}
+.hr2 {
+    height: 14px;
+    margin-right: 150px;
+}
+.person {
+    height: 14px;
+    position: absolute;
+    margin-left: 66.3%;
+}
+.login {
+    position: absolute;
+    margin-left: 77.6%;
+}
