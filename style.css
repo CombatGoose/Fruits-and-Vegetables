@@ -244,6 +244,8 @@ border: 1px solid rgba(42, 42, 42, 0.2);
     background-color: #F5F5F5;
     display: flex;
     align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 .v {
     margin-left: 70px;
@@ -276,4 +278,90 @@ border: 1px solid rgba(42, 42, 42, 0.2);
 }
 .gBlock > a {
     color: white;
+}
+.centralMain {
+    display: flex;
+}
+.fruitBlock {
+    width: 270px;
+    height: 270px;
+    background-color: #F5F5F5;
+    margin-top: 20px;
+}
+.ff {
+    padding-top: 20px;
+    width: 240px;
+    height: 176px;
+    margin: 0 15px;
+}
+.textF {
+    width: 240px;
+    height: 43px;
+    background-color: white;
+    margin: 0 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 11px;
+}
+.F {
+    font-style: italic;
+}
+.first {
+    margin-left: 20px;
+}
+.Fruits {
+    width: 560px;
+    height: 263px;
+    background-image: url(./img/Rectangle\ 3.png);
+    margin-top: 20px;
+}
+.fh {
+    margin-left: 290px;
+    padding-top: 38px;
+}
+.hf {
+       font-style: italic;
+      font-size: 28px;
+    color: #999999;
+}
+.rf {
+    font-size: 24px;
+    color: white;
+    margin-top: -20px;
+}
+.mMain {
+    display: flex;
+}
+.GBlock {
+        width: 141px;
+    height: 50px;
+    background-color: #7FAD39;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 290px;
+    margin-top: 20px;
+}
+.GBlock > a {
+    text-decoration: none;
+    color: white;
+}
+.s {
+    margin-left: 20px;
+}
+.textMain {
+    display: flex;
+    margin-top: 20px;
+}
+.mainText {
+    font-size: 22px;
+    font-style: italic;
+    color: #747373;
+}
+.Sym {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #F5F5F5;
 }

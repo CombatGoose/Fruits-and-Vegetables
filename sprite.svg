@@ -35,4 +35,7 @@
 <symbol id="sym" viewBox="0 0 10 6">
 <path d="M8.4425 0.442505L5 3.8775L1.5575 0.442505L0.5 1.5L5 6L9.5 1.5L8.4425 0.442505Z"/>
 </symbol>
+<symbol id="symbol1"  viewBox="0 0 9 12">
+<path d="M2.01999 0L0.609985 1.41L5.18999 6L0.609985 10.59L2.01999 12L8.01999 6L2.01999 0Z" fill="#2A2A2A"/>
+</symbol>
 </svg>
