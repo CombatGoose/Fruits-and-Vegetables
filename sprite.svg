@@ -44,4 +44,19 @@
 <symbol id="sms" width="20" height="20" viewBox="0 0 20 20">
 <path d="M18 0H2C0.9 0 0 0.9 0 2V20L4 16H18C19.1 16 20 15.1 20 14V2C20 0.9 19.1 0 18 0ZM18 14H4L2 16V2H18V14ZM5 7H7V9H5V7ZM9 7H11V9H9V7ZM13 7H15V9H13V7Z" fill="#757575"/>
 </symbol>
+<symbol id="visa" width="43" height="26" viewBox="0 0 43 26">
+    <rect width="43" height="25.0498" rx="4" fill="white"/>
+</symbol>
+<symbol id="masterCard" width="43" height="26" viewBox="0 0 43 26">
+<rect width="43" height="25.0498" rx="4" fill="white"/>
+</symbol>
+<symbol id="maestro" width="43" height="26" viewBox="0 0 43 26">
+<rect width="43" height="25.0498" rx="4" fill="white"/>
+</symbol>
+<symbol id="crus" width="43" height="26" viewBox="0 0 43 26">
+<rect width="43" height="25.0498" rx="4" fill="white"/>
+</symbol>
+<symbol id="american" width="43" height="26" viewBox="0 0 43 26">
+    <rect width="43" height="25.0498" rx="4" fill="white"/>
+</symbol>
 </svg>
